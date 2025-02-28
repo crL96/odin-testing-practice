@@ -7,3 +7,7 @@ test("one word string", () => {
 test("multi word string", () => {
     expect(reverseString("Unit testing is good practice")).toBe("ecitcarp doog si gnitset tinU");
 });
+
+test("empty string", () => {
+    expect(reverseString("")).toBe("");
+});
