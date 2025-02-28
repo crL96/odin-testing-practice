@@ -1,0 +1,23 @@
+{
+  "name": "odin-testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/crL96/odin-testing-practice#readme",
+  "bugs": {
+    "url": "https://github.com/crL96/odin-testing-practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crL96/odin-testing-practice.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
